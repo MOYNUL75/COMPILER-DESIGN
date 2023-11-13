@@ -1,0 +1,12 @@
+int main() 
+{ 
+int integerType; 
+char charType; 
+float floatType; 
+double doubleType;  
+cout <<"Integer:"<<sizeof(integerType)<<endl; 
+cout <<"Character:"<<sizeof(charType)<<endl; 
+cout <<"Float:"<<sizeof(floatType)<<endl; 
+cout <<"Double:"<<sizeof(doubleType)<<endl; 
+return 0; 
+}
