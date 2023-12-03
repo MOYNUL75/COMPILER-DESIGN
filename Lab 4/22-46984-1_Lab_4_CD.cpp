@@ -1,3 +1,8 @@
+/*
+ 1.	Write a C/C++ program using the following instructions (filename: ID.c/ ID.cpp):
+a.	Read a file named “program.cpp” (given below). 
+b.	After reading the file you have to identify and count the unique name of the user-defined functions 
+*/
 #include <iostream>
 #include <fstream>
 #include <sstream>
